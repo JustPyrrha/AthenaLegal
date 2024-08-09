@@ -28,6 +28,10 @@ The following data is collected where applicable:
 - Thread ID
 - Thread Name
 
+### KordEx
+As of version 1.0.0-beta13 Athena is configured to use the [KordEx extra](https://docs.kordex.dev/data-collection.html#levels-extra) data collection option.\
+This is primarily for collecting statistics about the KordEx framework, which Athena is built using. The only user-facing information that's collected is the number of Guilds Athena is in.
+
 ## Contact and Data Access and Removal
 For questions, and access and/or removal of personal data, you may email us at [contact@pyrrha.gay](mailto:contact@pyrrha.gay).
 You can also contact `@pyrrha` on Discord.
